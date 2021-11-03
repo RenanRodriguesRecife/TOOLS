@@ -1,6 +1,6 @@
 Animação
 
-<a href="https://greensock.com/get-started/#what-is-gsap">GSAP</p>
+<a href="https://greensock.com/get-started/#what-is-gsap">GSAP</a>
 
 Animação barata:
 
