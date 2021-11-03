@@ -10,3 +10,7 @@ Animação barata:
 Fatiar imagens
 
 <a href="https://bennettfeely.com/clippy/">CSS Clip-path maker</a>
+
+Image Hover Liquid Distortion
+
+<a href="https://github.com/robin-dela/hover-effect">robin-dela/hover-effect</a>
