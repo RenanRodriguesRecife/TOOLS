@@ -8,6 +8,9 @@ Animação barata:
 
 <a href="https://animate.style/">Animate.css</a><span> (2021)</span>
 
+Parallax
+
+<a href="https://github.com/wagerfield/parallax">Parallax.js</a><span> (2021)</span>
 
 Fatiar imagens
 
