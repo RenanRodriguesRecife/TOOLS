@@ -4,6 +4,8 @@ Animação
 
 <a href="https://greensock.com/tweenmax/">GSAP TweenMax</a><span> - Legado (2021)</span>
 
+<a href="https://animejs.com/">Anima JS</a><span> (2021)</span>
+
 Animação barata:
 
 <a href="https://animate.style/">Animate.css</a><span> (2021)</span>
@@ -25,3 +27,5 @@ REACTJS
 Animação
 
 <a href="https://www.framer.com/motion/">Framer Motion</a><span> (2021)</span>
+
+
